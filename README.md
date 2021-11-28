@@ -4,7 +4,7 @@ This is the data sample for 'Adaptive Multi-Task Positive-Unlabeled Learning for
 
 **Instance:** 
 
-69,22,55,46,73,5,0,1,37,31,9,56,41,59,84,6,110,8 &nbsp;&nbsp;&nbsp; 4,1,1,1,1,1,1,2,1,1,2,1,1,5,1,1,1,1 &nbsp;&nbsp;&nbsp; 2,6,5,8,2,1,11,2,2,2,3,5,5,9,2,7,16,0 &nbsp;&nbsp;&nbsp; 0,1 &nbsp;&nbsp;&nbsp; 0,1  
+69,22,55,46,73,5,0,1,37,31,9,56,41,59,84,6,110,8 &nbsp;&nbsp; 4,1,1,1,1,1,1,2,1,1,2,1,1,5,1,1,1,1 &nbsp;&nbsp; 2,6,5,8,2,1,11,2,2,2,3,5,5,9,2,7,16,0 &nbsp;&nbsp; 0,1 &nbsp;&nbsp; 0,1  
 
 **Description:**
 
