@@ -21,3 +21,5 @@ For **Column1**, **Column 2**, and **Column 3**,  there is a one-to-one correspo
 **Column 4** shows two labels for depression and diabetes --- 0: unlabeled; 1: positive (used for training, validation, and calculating Precision, Recall, F1 Score, and F2 Score)
 
 **Column 5** shows two additional labels for depression and diabetes --- 0: unlabeled; 1: latent positive (used in the elaborated evaluation scenario)
+
+Note that each positive instance is replicated with a minor disturbance 20 times during the training phase to address the imbalanced data.
